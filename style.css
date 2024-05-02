@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+table {
+    border: 1px solid grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: rgb(47, 252, 207);
+    color: #fd0f0f;
+    font-size: 25px;
+    font-weight: 600;
+    border: none;
+}
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: #fd0f0f;
+    color: rgb(47, 252, 207);
+}
